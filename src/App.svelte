@@ -21,7 +21,7 @@
   const HEADER_TITLE = "Sol Eyes Discord";
   const HEADER_LINK = "https://discord.gg/vUWwGtBS";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "public/output-onlinegiftools.gif";
+  const IMAGE_LINK = "output-onlinegiftools.gif";
   /***********************************/
 
   const { solana } = window as any;
