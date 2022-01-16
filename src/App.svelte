@@ -172,7 +172,7 @@
           <div>
             <h4><i>1. What are Sol Eyes?</i></h4>
             <p>
-              <small>Eyes are how we experience the meatverse. Sol Eyes are how we experience that metaverse.</small>
+              <small>Eyes are how we experience the meatverse. Sol Eyes are how we experience the metaverse.</small>
             </p>
 
             <hr />
