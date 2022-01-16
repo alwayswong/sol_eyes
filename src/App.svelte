@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const TITLE = "Sol Eyes";
+  const DESCRTIPTION = "Your view of the metaverse 0_0";
+  const HEADER_TITLE = "Sol Eyes Discord";
+  const HEADER_LINK = "https://discord.gg/vUWwGtBS";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "public/output-onlinegiftools.gif";
   /***********************************/
 
   const { solana } = window as any;
@@ -132,7 +132,7 @@
     {/if}
     <!-- Card -->
     <div
-      class=" max-w-lg mx-auto bg-white rounded-lg my-12  border-2"
+      class=" max-w-lg mx-auto bg-gray rounded-lg my-12  border-2"
       transition:fade
     >
       <!-- Top Bar -->
@@ -165,6 +165,38 @@
             >
           {/if}
         </div>
+        <div id="link4">
+          <h1><b>FAQ</b>
+            <hr />
+          </h1>
+          <div>
+            <h4><i>1. What are Sol Eyes?</i></h4>
+            <p>
+              <small>Eyes are how we experience the meatverse. Sol Eyes are how we experience that metaverse.</small>
+            </p>
+
+            <hr />
+          </div>
+
+          <div>
+            <h4><i>2. Roadmap?</i></h4>
+            <p>
+              <small>Art only. Vibes only. Or??</small>
+            </p>
+
+            <hr />
+          </div>
+
+          <div>
+            <h4><i>3. Team?</i></h4>
+            <p>
+              <small>Banksy? Zuck? Shkreli?</small>
+            </p>
+
+            <hr />
+          </div>
+        </div>
+
       </div>
     </div>
   {/if}
