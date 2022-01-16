@@ -69,4 +69,4 @@ Mainnet-beta:
 - 'View on Solana Explorer' after transaction has been broadcasted
 - Confetti after a successful mint
 - Google Analytics tracking
-- Test change
+- Test change 2
