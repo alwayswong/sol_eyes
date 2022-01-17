@@ -70,3 +70,4 @@ Mainnet-beta:
 - Confetti after a successful mint
 - Google Analytics tracking
 - Domain fix
+- Updating Candy Machine
