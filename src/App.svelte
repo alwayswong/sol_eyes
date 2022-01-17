@@ -18,8 +18,8 @@
   // Customise the app by changing the following variables.
   const TITLE = "Sol Eyes";
   const DESCRTIPTION = "Your view of the metaverse 0_0";
-  const HEADER_TITLE = "Sol Eyes Discord";
-  const HEADER_LINK = "https://discord.gg/vUWwGtBS";
+  const HEADER_TITLE = "Sol Eyes Twitter";
+  const HEADER_LINK = "https://twitter.com/SolanaEyesNFT";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "output-onlinegiftools.gif";
   /***********************************/
@@ -172,14 +172,25 @@
           <div>
             <h4><i>1. What are Sol Eyes?</i></h4>
             <p>
-              <small>Eyes are how we experience the meatverse. Sol Eyes are how we experience the metaverse.</small>
+              <small>
+                Sol Eyes are a generative art collection of 222 on the solana blockchain. Mint price 0.22 Sol.
+                </small>
             </p>
 
             <hr />
           </div>
 
           <div>
-            <h4><i>2. Roadmap?</i></h4>
+            <h4><i>2. Why Eyes?</i></h4>
+            <p>
+              <small>Eyes are how we experience the MEATverse. Sol Eyes are how we experience the METAverse. Sol Eyes are the genesis collection for a series of generative art projects. Our vision is to be a platform for generative artists to showcase work on the #solana blockchain</small>
+            </p>
+
+            <hr />
+          </div>
+
+          <div>
+            <h4><i>3. Roadmap?</i></h4>
             <p>
               <small>Art only. Vibes only. Or??</small>
             </p>
@@ -188,9 +199,18 @@
           </div>
 
           <div>
-            <h4><i>3. Team?</i></h4>
+            <h4><i>4. Team?</i></h4>
             <p>
               <small>Banksy? Zuck? Shkreli?</small>
+            </p>
+
+            <hr />
+          </div>
+
+          <div>
+            <h4><i>5. GM?</i></h4>
+            <p>
+              <small>GM</small>
             </p>
 
             <hr />
