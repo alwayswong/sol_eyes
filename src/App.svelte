@@ -173,7 +173,7 @@
             <h4><i>1. What are Sol Eyes?</i></h4>
             <p>
               <small>
-                Sol Eyes are a generative art collection of 222 on the solana blockchain. Mint price 0.22 Sol.
+                Sol Eyes are a generative art collection of 222 on the Solana blockchain. Mint price 0.22 Sol.
                 </small>
             </p>
 
@@ -183,7 +183,7 @@
           <div>
             <h4><i>2. Why Eyes?</i></h4>
             <p>
-              <small>Eyes are how we experience the MEATverse. Sol Eyes are how we experience the METAverse. Sol Eyes are the genesis collection for a series of generative art projects. Our vision is to be a platform for generative artists to showcase work on the #solana blockchain</small>
+              <small>Eyes are how we experience the MEATverse. Sol Eyes are how we experience the METAverse. Sol Eyes are the genesis collection for a series of generative art projects. Our vision is to be a platform for generative artists to showcase their work on the Solana blockchain.</small>
             </p>
 
             <hr />
